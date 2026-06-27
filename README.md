@@ -15,13 +15,60 @@ Throughout this course, I strengthened my ability to conduct research, organize 
 ---
 
 # Portfolio Contents
+## Course Assignments
 
-## Technical Writing
+### Unit 8.1
 
-- Technical Instructions
-- Recommendation Report
-- Proposal
-- Process Documentation
+📄 [View Assignment](Unit%208.1.pdf)
+
+### Unit 8.2
+
+📄 [View Assignment](Unit%208.2.pdf)
+
+### Unit 8.3
+
+📄 [View Assignment](Unit%208.3.pdf)
+
+### Unit 8.4
+
+📄 [View Assignment](Unit%208.4.pdf)
+
+### Unit 8.5
+
+📄 [View Assignment](Unit%208.5.pdf)
+
+These assignments demonstrate my ability to conduct research, communicate technical information effectively, apply critical thinking, and produce professional documents using proper formatting and organization.
+
+---
+
+## Research Projects
+
+### Artificial Intelligence Research Project
+
+This research project examines the impact of artificial intelligence across multiple industries, including its benefits, challenges, ethical considerations, and future applications.
+
+### Data Mining Assignment
+
+This assignment explores data mining concepts, techniques, and real-world applications while demonstrating analytical thinking and research skills.
+
+### Decision Tree Machine Learning Analysis
+
+This project analyzes a Decision Tree model developed using Python and Scikit-Learn. It explains the libraries used, the Iris dataset, model implementation, visualizations, and the difference between supervised and unsupervised learning.
+
+---
+
+## Professional Communication
+
+This section demonstrates my ability to communicate clearly and professionally through research papers, technical documentation, discussion posts, and workplace communication assignments.
+
+---
+
+## Presentations
+
+### Personality Presentation
+
+This presentation demonstrates my ability to organize information visually and communicate ideas effectively to an audience.
+
 
 These assignments demonstrate my ability to organize technical information into clear, accurate, and easy-to-follow documents for different audiences.
 
